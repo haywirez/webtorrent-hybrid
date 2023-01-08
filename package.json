@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@koush/wrtc": "^0.5.3",
-    "create-torrent": "^5.0.0",
+    "create-torrent": "^6.0.2",
     "webtorrent": "^1.0.0",
     "webtorrent-cli": "^4.0.0"
   },
